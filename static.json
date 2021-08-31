@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "tia.nntr.wth"
+      "X-Author": "tia.nntr.wth",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
